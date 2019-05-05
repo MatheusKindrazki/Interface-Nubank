@@ -35,7 +35,6 @@ export default function Menu(){
           <NavText>Configurações do app</NavText>
         </NavItem>
       </Nav>
-
       <SignOutButton onPress={() =>{}}>
         <SignOutButtonText>
           SAIR DO APP
